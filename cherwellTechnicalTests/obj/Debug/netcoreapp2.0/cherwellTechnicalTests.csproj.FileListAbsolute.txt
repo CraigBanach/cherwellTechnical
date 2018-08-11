@@ -1,0 +1,17 @@
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.csprojAssemblyReference.cache
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.csproj.CoreCompileInputs.cache
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.AssemblyInfoInputs.cache
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.AssemblyInfo.cs
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnicalTests.deps.json
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnicalTests.runtimeconfig.json
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnicalTests.runtimeconfig.dev.json
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnicalTests.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnicalTests.pdb
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnical.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\bin\Debug\netcoreapp2.0\cherwellTechnical.pdb
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.csproj.CopyComplete
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.dll
+E:\dev\cherwellTechnical\cherwellTechnicalTests\obj\Debug\netcoreapp2.0\cherwellTechnicalTests.pdb

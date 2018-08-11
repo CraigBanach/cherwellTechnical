@@ -1,0 +1,11 @@
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.csprojAssemblyReference.cache
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.csproj.CoreCompileInputs.cache
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.AssemblyInfoInputs.cache
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.AssemblyInfo.cs
+E:\dev\cherwellTechnical\cherwellTechnical\bin\Debug\netcoreapp2.0\cherwellTechnical.deps.json
+E:\dev\cherwellTechnical\cherwellTechnical\bin\Debug\netcoreapp2.0\cherwellTechnical.runtimeconfig.json
+E:\dev\cherwellTechnical\cherwellTechnical\bin\Debug\netcoreapp2.0\cherwellTechnical.runtimeconfig.dev.json
+E:\dev\cherwellTechnical\cherwellTechnical\bin\Debug\netcoreapp2.0\cherwellTechnical.dll
+E:\dev\cherwellTechnical\cherwellTechnical\bin\Debug\netcoreapp2.0\cherwellTechnical.pdb
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.dll
+E:\dev\cherwellTechnical\cherwellTechnical\obj\Debug\netcoreapp2.0\cherwellTechnical.pdb
