@@ -118,7 +118,12 @@ namespace cherwellTechnicalTests.Models
                 triangle.Coordinates = null;
                 triangle.Designation = designation;
 
+                // Because Triangle does not override IEquatable and I don't
+                // want to write a comparer for a test, we need to check 
+                // the properties of the triangle.
+#pragma warning disable xUnit2012 // Do not use Enumerable.Any() to check if a value exists in a collection
                 Assert.True( triangle.GetCoordinates().Any( entry => entry.X == coordinates[ 0 ].X && entry.Y == coordinates[ 0 ].Y ) );
+#pragma warning restore xUnit2012 // Do not use Enumerable.Any() to check if a value exists in a collection
             }
 
             public class DesignationTestData : TheoryData<Cell, Collection<Coordinate>>

@@ -26,7 +26,7 @@ namespace cherwellTechnical.Models
             return this.Row != null && this.Column != null;
         }
 
-        public string ToString()
+        public override string ToString()
         {
             if ( this.Row == null)
             {

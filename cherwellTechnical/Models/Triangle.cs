@@ -7,8 +7,8 @@ namespace cherwellTechnical.Models
 {
     public class Triangle
     {
-        private const int SIDES = 3;
-        private const int SIDE_LENGTH = 10;
+        public static int SIDES = 3;
+        public static int SIDE_LENGTH = 10;
 
         public Cell Designation { get; set; } = new Cell();
         public ICollection<Coordinate> Coordinates { get; set; } = new Collection<Coordinate>();
